@@ -1,6 +1,8 @@
-# projeto_flutter_1
+# Project Flutter - 1
 
-A new Flutter project.
+This project is a prototype question-and-answer application developed in Flutter.
+
+![First Screen](https://github.com/CaioNoboa/5-flutter-1/blob/main/images/Imagem_1.jpg)
 
 ## Getting Started
 
@@ -10,5 +12,3 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-![First Screen](https://github.com/CaioNoboa/5-flutter-1/blob/main/images/Imagem_1.jpg)
